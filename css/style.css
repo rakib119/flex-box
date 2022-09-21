@@ -1,0 +1,50 @@
+body{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   background: #b7f4e5;
+}
+.main{
+   border: 1px solid #000;
+   margin: 10% 10%; 
+   background: #f0f8ff;
+   display: flex; 
+   flex-flow:column wrap;
+}
+.div{
+   width: 200px;
+   height: 200px;
+   color: #fff;
+   font-size: 35px;
+   text-align: center;
+}
+.div1{
+ background: red;
+}
+.div2{
+ background: black;
+}
+.div3{
+ background: blue;
+}
+.div4{
+ background: aqua ;
+}
+.div5{
+ background:violet;
+}
+.div6{
+ background: rgb(19, 182, 65);
+}
+.div7{
+ background: rgb(4, 255, 234);
+}
+.div8{
+ background: rgb(225, 0, 255);
+}
+.div9{
+ background: rgb(46, 59, 20) ;
+}
+.div10{
+ background:rgb(5, 64, 106);
+}
