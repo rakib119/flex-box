@@ -11,8 +11,7 @@ body{
    /* overflow: hidden; */
 }
 .row1{ 
-   display: flex;
-   flex-wrap: wrap;      
+   display: flex; 
 }
 .div{
    width: 200px;
@@ -23,14 +22,16 @@ body{
 }
 .div1{
    display: flex;
-   flex-flow: column wrap;
+   flex-flow: column;
 }
 .div-1-1{ 
    height: 50%;
+   width: 100%;
    background: rgb(221, 136, 136);
 }
 .div-1-2{
    height: 50%;
+   width: 100%;
    background: rgb(58, 55, 55);
 }
 .div2{
